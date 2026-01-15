@@ -4,8 +4,7 @@
   "description": "Todo Mini Project 1.Add Task , 2.Show Task , 3.Delete Task, 4.Exit Terminal",
   "main": "N/A",
   "scripts": {
-    "test": "N/A",
-    "type": "module"
+    "test": "N/A"
   },
   "keywords": [
     "N/A"
