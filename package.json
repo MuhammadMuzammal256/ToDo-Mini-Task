@@ -1,0 +1,15 @@
+{
+  "name": "todo-mini-project",
+  "version": "1.0.0",
+  "description": "Todo Mini Project 1.Add Task , 2.Show Task , 3.Delete Task, 4.Exit Terminal",
+  "main": "N/A",
+  "scripts": {
+    "test": "N/A",
+    "type": "module"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "M Muzammal",
+  "license": "ISC"
+}
